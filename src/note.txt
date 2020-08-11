@@ -1,0 +1,1 @@
+If you make functions inline, you also have to make them static.
